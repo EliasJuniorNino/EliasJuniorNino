@@ -28,9 +28,14 @@
   <img src="https://profile-counter.glitch.me/SilvaTs/count.svg" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&layout=compact)
 
-[![Elias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliasJuniorNino)](https://wakatime.com/@EliasJuniorNino)
+<a href="https://github.com/EliasJuniorNino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&layout=compact" />
+</a>
+
+<a href="https://wakatime.com/@EliasJuniorNino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EliasJuniorNino" />
+</a>
 
 <br>
 
