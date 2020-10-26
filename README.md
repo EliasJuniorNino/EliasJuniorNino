@@ -23,12 +23,6 @@
 - 💻 Programming languages: JavaScript, Php, Java.
 - 💾 Databases: MySQL, MongoDB.
 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/SilvaTs/count.svg" />
-</p>
-
-
 <a href="https://github.com/EliasJuniorNino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&layout=compact" />
 </a>
@@ -36,6 +30,13 @@
 <a href="https://wakatime.com/@EliasJuniorNino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EliasJuniorNino" />
 </a>
+
+<br>
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/SilvaTs/count.svg" />
+</p>
 
 <br>
 
