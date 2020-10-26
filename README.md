@@ -23,12 +23,8 @@
 - 💻 Programming languages: JavaScript, Php, Java.
 - 💾 Databases: MySQL, MongoDB.
 
-<a href="https://github.com/EliasJuniorNino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliasJuniorNino&show_icons=true&count_private=true&layout=compact"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/EliasJuniorNino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EliasJuniorNino&show_icons=true&count_private=true&layout=compact"/>
-</a>
+![Elias's github stats](https://github-readme-stats.vercel.app/api?username=EliasJuniorNino&show_icons=true&theme=radical)
 
 [![Elias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliasJuniorNino)](https://github.com/anuraghazra/github-readme-stats)
