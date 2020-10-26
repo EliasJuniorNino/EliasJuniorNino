@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on SOGGSoft.
+- 💻 I’m currently working on SOGGSoft.
 - 💻 Mobile Developer.
 - 🎓 Currently studying on U.F.R.
 - 💻 Skills: ReactJS, ReactNative, AdonisJS, Adianti Framework, Android.
