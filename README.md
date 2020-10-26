@@ -25,6 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Elias's github stats](https://github-readme-stats.vercel.app/api?username=EliasJuniorNino&show_icons=true&count_private=true)
-
 [![Elias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliasJuniorNino)](https://github.com/anuraghazra/github-readme-stats)
