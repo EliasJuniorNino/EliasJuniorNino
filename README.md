@@ -50,25 +50,25 @@
   <span title="React Native">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="reactnative" width="45px" height="45px"/>
   </span>
-  
-  <span title="AdonisJS">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adonisjs.svg" alt="adonisjs" width="45px" height="45px"/>
-  </span>
 
-  <span title="Android">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" alt="android" width="45px" height="45px"/> 
+  <span title="Styled Components">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" alt="android" width="45px" height="45px"/> 
   </span>
   
-  <span title="MySQL">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="mysql" width="45px" height="45px"/>
+  <span title="Redux">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" alt="mysql" width="45px" height="45px"/>
   </span>
   
   <span title="MongoDB">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="mysql" width="45px" height="45px"/>
   </span>
   
-  <span title="php">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="php" width="45px" height="45px"/>
+  <span title="AdonisJS">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adonisjs.svg" alt="adonisjs" width="45px" height="45px"/>
+  </span>
+  
+  <span title="Visual Studio Code">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="php" width="45px" height="45px"/>
   </span>
   
 <p/>
