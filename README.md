@@ -42,13 +42,25 @@
   <b>:pushpin: Languages and Tools: </b>
   
   <br />
+  
+  <span title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="javascript" width="45px" height="45px"/>
+  </span>
+  
+  <span title="React Native">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="reactnative" width="45px" height="45px"/>
+  </span>
+  
+  <span title="AdonisJS">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adonisjs.svg" alt="adonisjs" width="45px" height="45px"/>
+  </span>
 
-  <span title="Java">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="java" width="45px" height="45px"/> 
+  <span title="Android">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" alt="android" width="45px" height="45px"/> 
   </span>
   
   <span title="MySQL">
-    <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="mysql" width="45px" height="45px"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="mysql" width="45px" height="45px"/>
   </span>
-
+  
 <p/>
