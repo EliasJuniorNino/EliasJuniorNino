@@ -47,10 +47,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="javascript" width="45px" height="45px"/>
   </span>
   
-  <span title="php">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="php" width="45px" height="45px"/>
-  </span>
-  
   <span title="React Native">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="reactnative" width="45px" height="45px"/>
   </span>
@@ -69,6 +65,10 @@
   
   <span title="MongoDB">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="mysql" width="45px" height="45px"/>
+  </span>
+  
+  <span title="php">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="php" width="45px" height="45px"/>
   </span>
   
 <p/>
