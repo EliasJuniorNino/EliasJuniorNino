@@ -22,3 +22,7 @@
 - 💻 Skills: ReactNative, ReactJS, NodeJS, Express, AdononisJS, Android.
 - 💻 Programming languages: JavaScript, TypeScript, Kotlin, Java.
 - 💾 Databases: MySQL.
+
+<a href="https://github.com/EliasJuniorNino?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&count_private=true" />
+</a>
