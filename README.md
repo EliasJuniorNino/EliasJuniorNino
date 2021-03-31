@@ -16,9 +16,9 @@
 
 ## About me
 
-- 💻 I’m currently working on SOGGSoft.
-- 💻 Mobile Developer.
-- 🎓 Currently studying on U.F.R.
-- 💻 Skills: ReactJS, ReactNative, AdonisJS, Adianti Framework, Android.
-- 💻 Programming languages: JavaScript, Php, Java.
-- 💾 Databases: MySQL, MongoDB.
+- 💻 I'm currently working on SOGG Soft.
+- 💻 I'm Full Stack Developer.
+- 🎓 Currently studying on Federal University of Rondonópolis (U.F.R).
+- 💻 Skills: ReactNative, ReactJS, NodeJS, Express, AdononisJS, Android.
+- 💻 Programming languages: JavaScript, TypeScript, Kotlin, Java.
+- 💾 Databases: MySQL.
