@@ -16,9 +16,8 @@
 
 ## About me
 
-- 💻 I'm currently working on SOGG Soft.
+- 💻 I'm currently working on Tecnobit Sistemas Inteligente.
 - 💻 I'm Full Stack Developer.
 - 🎓 Currently studying on Federal University of Rondonópolis (U.F.R).
-- 💻 Skills: ReactNative, ReactJS, NodeJS, Express, AdononisJS, Android.
-- 💻 Programming languages: JavaScript, TypeScript, Kotlin, Java.
-- 💾 Databases: MySQL.
+- 💻 Skills: ReactNative, ReactJS, NodeJS, Android.
+- 💻 Programming languages: JavaScript, TypeScript, Java.
