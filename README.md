@@ -9,7 +9,5 @@
 ## About me
 
 - 💻 I'm currently working on Nelogica.
-- 💻 I'm Full Stack Developer.
+- 💻 I'm Android Developer.
 - 🎓 Currently studying on Federal University of Rondonópolis (U.F.R).
-- 💻 Skills: ReactNative, ReactJS, NodeJS, Android.
-- 💻 Programming languages: JavaScript, TypeScript, Java.
