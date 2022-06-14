@@ -8,6 +8,6 @@
 
 ## About me
 
-- 💻 I'm currently working on Nelogica.
+<!-- - 💻 I'm currently working on . -->
 - 💻 I'm Android Developer.
 - 🎓 Currently studying on Federal University of Rondonópolis (U.F.R).
