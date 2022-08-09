@@ -9,5 +9,5 @@
 ## About me
 
 <!-- - 💻 I'm currently working on . -->
-- 💻 I'm Full Stack Developer.
+- 💻 I'm Mobile Developer.
 - 🎓 Currently studying on Federal University of Rondonópolis (U.F.R).
