@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/-Call%20Me-%2300C853?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me - Elias Junior">
 </a>
 
-<br>
-
 ## About me
 
 Mobile Developer with over 4 years of experience in React Native and Native Android development. Additionally, I have expertise in Full Stack Web Development, working with Node.js (Express/NestJS) and PHP (Laravel)
