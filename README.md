@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Elias Junior">
   </a>
   <a href="tel:+5566992928053" target="_blank">
-    <img src="https://img.shields.io/badge/-Call%20Me-%2300C853?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me - Elias Junior">
+    +55 66992928053
   </a>
 </div>
 
