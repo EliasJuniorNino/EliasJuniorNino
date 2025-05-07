@@ -24,8 +24,6 @@
   <img align="center" alt="habilidade-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swift/swift-original.svg">
 </div>
 
-<br>
-
 ## About me
 
 Mobile Developer with over 5 years of experience in React Native and Native Android development. Additionally, I have expertise in Full Stack Web Development, working with Node.js (Express/NestJS) and PHP (Laravel).
