@@ -8,8 +8,8 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/kouthk">
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/eliasjuniornino">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eliasjuniornino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasjuniornino&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
@@ -17,10 +17,11 @@
 <br>
     
 <div style="display: inline_block">
-  <img align="center" alt="habilidade-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="habilidade-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="habilidade-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="habilidade-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="habilidade-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-plain.svg">
+  <img align="center" alt="habilidade-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="habilidade-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+  <img align="center" alt="habilidade-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="habilidade-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swift/swift-original.svg">
 </div>
 
 <br>
