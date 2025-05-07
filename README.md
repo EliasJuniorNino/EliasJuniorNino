@@ -6,6 +6,25 @@
   </a>
 </div>
 
+<br>
+
+<div>
+  <a href="https://github.com/kouthk">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eliasjuniornino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasjuniornino&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<br>
+    
+<div style="display: inline_block">
+  <img align="center" alt="habilidade-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="habilidade-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="habilidade-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="habilidade-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+</div>
+
+<br>
+
 ## About me
 
 Mobile Developer with over 5 years of experience in React Native and Native Android development. Additionally, I have expertise in Full Stack Web Development, working with Node.js (Express/NestJS) and PHP (Laravel).
