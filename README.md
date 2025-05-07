@@ -24,4 +24,4 @@ Mobile Developer with over 5 years of experience in React Native and Native Andr
 
 ![EliasJuniorNino's Stats](https://github-readme-stats.vercel.app/api?username=EliasJuniorNino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![EliasJuniorNino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=css,html&langs_count=9)
+![EliasJuniorNino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasJuniorNino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)
