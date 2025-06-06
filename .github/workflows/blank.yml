@@ -22,7 +22,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-        run: go run main.go
+        run: |
+          go mod tidy
+          go run main.go
 
       - name: 📤 Commitar gráfico e atualizar README
         run: |
