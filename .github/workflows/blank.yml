@@ -1,0 +1,33 @@
+name: Atualizar Linguagens no README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Clonar repositório
+        uses: actions/checkout@v4
+
+      - name: 🛠️ Instalar Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: 📊 Executar script Go para gerar gráfico
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: go run main.go
+
+      - name: 📤 Commitar gráfico e atualizar README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/top_languages.png README.md
+          git commit -m "Atualiza gráfico de linguagens" || echo "Sem mudanças"
+          git push
