@@ -20,7 +20,7 @@ jobs:
 
       - name: 📊 Executar script Go para gerar gráfico
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
           go mod tidy
