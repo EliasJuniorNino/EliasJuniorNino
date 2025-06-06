@@ -1,0 +1,21 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"name": "devcontainer",
+	"features": {
+		"ghcr.io/devcontainers/features/go:1": {
+			"version": "1.22"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"golang.go",
+				"shivamkumar.go-extras"
+			],
+			"settings": {
+				"editor.formatOnSave": true
+			}
+		}
+	},
+	"postCreateCommand": "chmod +x .devcontainer/setup-git-config.sh && .devcontainer/setup-git-config.sh"
+}
