@@ -2,44 +2,44 @@
 <rect width="100%" height="100%" fill="#262a33"/>
 <text x="20" y="35" fill="#73d9ca" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Most Used Languages</text>
 <rect x="20" y="55" width="360" height="8" rx="4" fill="#404854"/>
-<rect x="20.00" y="55" width="147.00" height="8" fill="#f1e05a"/>
-<rect x="167.00" y="55" width="115.84" height="8" fill="#777bb4"/>
-<rect x="282.84" y="55" width="50.85" height="8" fill="#1572b6"/>
-<rect x="333.69" y="55" width="12.19" height="8" fill="#7f52cc"/>
-<rect x="345.88" y="55" width="8.26" height="8" fill="#e34c26"/>
-<rect x="354.14" y="55" width="6.34" height="8" fill="#ed752a"/>
-<rect x="360.47" y="55" width="5.55" height="8" fill="#3572a5"/>
-<rect x="366.02" y="55" width="5.06" height="8" fill="#cf649a"/>
-<rect x="371.08" y="55" width="5.00" height="8" fill="#1d365d"/>
-<rect x="376.08" y="55" width="3.92" height="8" fill="#00add8"/>
+<rect x="20.00" y="55" width="146.26" height="8" fill="#f1e05a"/>
+<rect x="166.26" y="55" width="117.31" height="8" fill="#777bb4"/>
+<rect x="283.57" y="55" width="51.49" height="8" fill="#1572b6"/>
+<rect x="335.07" y="55" width="12.34" height="8" fill="#7f52cc"/>
+<rect x="347.41" y="55" width="8.36" height="8" fill="#e34c26"/>
+<rect x="355.77" y="55" width="6.42" height="8" fill="#ed752a"/>
+<rect x="362.19" y="55" width="5.13" height="8" fill="#cf649a"/>
+<rect x="367.32" y="55" width="5.06" height="8" fill="#1d365d"/>
+<rect x="372.38" y="55" width="4.17" height="8" fill="#00add8"/>
+<rect x="376.55" y="55" width="3.45" height="8" fill="#3572a5"/>
 <circle cx="28" cy="76" r="6" fill="#f1e05a"/>
 <text x="45" y="80" fill="white" font-family="Arial, sans-serif" font-size="13">JavaScript</text>
-<text x="340" y="80" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">40.83%</text>
+<text x="340" y="80" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">40.63%</text>
 <circle cx="28" cy="102" r="6" fill="#777bb4"/>
 <text x="45" y="106" fill="white" font-family="Arial, sans-serif" font-size="13">PHP</text>
-<text x="340" y="106" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">32.18%</text>
+<text x="340" y="106" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">32.59%</text>
 <circle cx="28" cy="128" r="6" fill="#1572b6"/>
 <text x="45" y="132" fill="white" font-family="Arial, sans-serif" font-size="13">CSS</text>
-<text x="340" y="132" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">14.12%</text>
+<text x="340" y="132" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">14.30%</text>
 <circle cx="28" cy="154" r="6" fill="#7f52cc"/>
 <text x="45" y="158" fill="white" font-family="Arial, sans-serif" font-size="13">Kotlin</text>
-<text x="340" y="158" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">3.39%</text>
+<text x="340" y="158" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">3.43%</text>
 <circle cx="28" cy="180" r="6" fill="#e34c26"/>
 <text x="45" y="184" fill="white" font-family="Arial, sans-serif" font-size="13">HTML</text>
-<text x="340" y="184" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">2.29%</text>
+<text x="340" y="184" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">2.32%</text>
 <circle cx="28" cy="206" r="6" fill="#ed752a"/>
 <text x="45" y="210" fill="white" font-family="Arial, sans-serif" font-size="13">Java</text>
-<text x="340" y="210" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.76%</text>
-<circle cx="28" cy="232" r="6" fill="#3572a5"/>
-<text x="45" y="236" fill="white" font-family="Arial, sans-serif" font-size="13">Python</text>
-<text x="340" y="236" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.54%</text>
-<circle cx="28" cy="258" r="6" fill="#cf649a"/>
-<text x="45" y="262" fill="white" font-family="Arial, sans-serif" font-size="13">SCSS</text>
+<text x="340" y="210" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.78%</text>
+<circle cx="28" cy="232" r="6" fill="#cf649a"/>
+<text x="45" y="236" fill="white" font-family="Arial, sans-serif" font-size="13">SCSS</text>
+<text x="340" y="236" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.42%</text>
+<circle cx="28" cy="258" r="6" fill="#1d365d"/>
+<text x="45" y="262" fill="white" font-family="Arial, sans-serif" font-size="13">Less</text>
 <text x="340" y="262" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.41%</text>
-<circle cx="28" cy="284" r="6" fill="#1d365d"/>
-<text x="45" y="288" fill="white" font-family="Arial, sans-serif" font-size="13">Less</text>
-<text x="340" y="288" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.39%</text>
-<circle cx="28" cy="310" r="6" fill="#00add8"/>
-<text x="45" y="314" fill="white" font-family="Arial, sans-serif" font-size="13">Go</text>
-<text x="340" y="314" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.09%</text>
+<circle cx="28" cy="284" r="6" fill="#00add8"/>
+<text x="45" y="288" fill="white" font-family="Arial, sans-serif" font-size="13">Go</text>
+<text x="340" y="288" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1.16%</text>
+<circle cx="28" cy="310" r="6" fill="#3572a5"/>
+<text x="45" y="314" fill="white" font-family="Arial, sans-serif" font-size="13">Python</text>
+<text x="340" y="314" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">0.96%</text>
 </svg>
